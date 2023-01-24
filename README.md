@@ -7,6 +7,9 @@ Game:
 - you claim a post by touching it, unless somebody else is already touching it or it already is your claimed post
 - swith posts with another player to both gain points and boost energy
 - exploit 2 other players switching posts to claim one for yourself
+- if 2 players collide, the slowest moving player is bounced out of the way
+- your boost drains while you're too close to the safety of yor post
+- you get bonus boost when far enough away from your post
 
 Controls:
 - left analog stick to move
